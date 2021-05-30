@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-1lk*9(757(ec!5=)9%hqqw^4ug8da0&+rswz%u8q&7tq#lr=de'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['verifyfacebook.pythonanywhere.com']
 
